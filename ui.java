@@ -38,7 +38,9 @@ public class BookGUI extends JFrame implements ActionListener
 //  Hello World
 
 
-
+/**
+  @wi.implements MATL-771 Java code as sample
+*/
     public static void main(String[] args)
     {
        BookGUI gui = new BookGUI( );
